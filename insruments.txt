@@ -5,3 +5,4 @@ Wind musical instruments
 Harmonica
 Saxophone
 Trumpet
+Bagpipes
